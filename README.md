@@ -1,0 +1,2 @@
+# localWordcount
+spark local wordcount
